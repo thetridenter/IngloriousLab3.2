@@ -1,0 +1,11 @@
+/Users/kostiantyn/Desktop/University/Object_Oriented_Programming/Lab3/IngloriousLab3.2/IngloriousLab3.2/obj/Debug/netcoreapp3.1/IngloriousLab3.2.csprojAssemblyReference.cache
+/Users/kostiantyn/Desktop/University/Object_Oriented_Programming/Lab3/IngloriousLab3.2/IngloriousLab3.2/obj/Debug/netcoreapp3.1/IngloriousLab3.2.AssemblyInfoInputs.cache
+/Users/kostiantyn/Desktop/University/Object_Oriented_Programming/Lab3/IngloriousLab3.2/IngloriousLab3.2/obj/Debug/netcoreapp3.1/IngloriousLab3.2.AssemblyInfo.cs
+/Users/kostiantyn/Desktop/University/Object_Oriented_Programming/Lab3/IngloriousLab3.2/IngloriousLab3.2/bin/Debug/netcoreapp3.1/IngloriousLab3.2
+/Users/kostiantyn/Desktop/University/Object_Oriented_Programming/Lab3/IngloriousLab3.2/IngloriousLab3.2/bin/Debug/netcoreapp3.1/IngloriousLab3.2.deps.json
+/Users/kostiantyn/Desktop/University/Object_Oriented_Programming/Lab3/IngloriousLab3.2/IngloriousLab3.2/bin/Debug/netcoreapp3.1/IngloriousLab3.2.runtimeconfig.json
+/Users/kostiantyn/Desktop/University/Object_Oriented_Programming/Lab3/IngloriousLab3.2/IngloriousLab3.2/bin/Debug/netcoreapp3.1/IngloriousLab3.2.runtimeconfig.dev.json
+/Users/kostiantyn/Desktop/University/Object_Oriented_Programming/Lab3/IngloriousLab3.2/IngloriousLab3.2/bin/Debug/netcoreapp3.1/IngloriousLab3.2.dll
+/Users/kostiantyn/Desktop/University/Object_Oriented_Programming/Lab3/IngloriousLab3.2/IngloriousLab3.2/bin/Debug/netcoreapp3.1/IngloriousLab3.2.pdb
+/Users/kostiantyn/Desktop/University/Object_Oriented_Programming/Lab3/IngloriousLab3.2/IngloriousLab3.2/obj/Debug/netcoreapp3.1/IngloriousLab3.2.dll
+/Users/kostiantyn/Desktop/University/Object_Oriented_Programming/Lab3/IngloriousLab3.2/IngloriousLab3.2/obj/Debug/netcoreapp3.1/IngloriousLab3.2.pdb
